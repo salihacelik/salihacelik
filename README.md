@@ -12,8 +12,11 @@
 
 ---
 
-### 👨‍💻 About Me
-Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Gelişen teknolojilere ilgi duyan, öğrenmeye hevesli ve kendini sürekli geliştirmeye odaklanan bir mühendis adayıyım. Ekip çalışmasına yatkınlığım, güçlü iletişim becerilerim ve analitik düşünme yeteneğimle sorumluluk aldığım her işte en iyisini ortaya koymak için çalışırım. Çözüm odaklı yaklaşımım ve kararlılığım sayesinde zorluklar karşısında hızlı adapte olur, hedefe ulaşmak için gereken adımları istikrarlı şekilde atarım.
+### 🚀 Areas of Interest
+* Autonomous Systems & UAV Technologies
+* Embedded Systems & IoT
+* Computer Vision & Machine Learning
+* Full-Stack Software Development
 
 ---
 
@@ -45,32 +48,19 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Gelişen teknolojilere ilgi
 
 ---
 
-### 📌 Featured Projects & Experience
+### 📌 Projects & Experience
 
-#### 1. Staj Projeleri & Deneyimleri
 * **Stajyer (Yaz Stajı) | FLO Mağazacılık ve Pazarlama A.Ş.** *(Ağustos 2025)*
-  * Web tabanlı ayakkabı stok takip sistemi geliştirme. 
+  * Web tabanlı ayakkabı stok takip sistemi geliştirme.
   * 🔗 **Repo:** [github.com/salihacelik/shoe_stock](https://github.com/salihacelik/shoe_stock)
+
 * **Stajyer Mühendis (Yaz Stajı) | Tekviya Yazılım ve Bilgi Teknolojileri** *(Ağustos 2026)*
   * Çok kanallı e-ticaret altyapı süreçleri ve TaskFlow projesi geliştirme.
   * 🔗 **Repo:** [github.com/salihacelik/TaskFlow](https://github.com/salihacelik/TaskFlow)
 
-#### 2. TEKNOFEST & Otonom Sistemler
 * **Teknofest Yazılım Ekip Üyesi | KARTECH AERO** *(Eylül 2025 - Halen)*
-  * İHA projesinde görüntü işleme, nesne tespiti ve gömülü sistemler alanında çalışmalar yürütüyorum.
+  * İHA projesinde görüntü işleme, nesne tespiti ve gömülü sistemler alanında çalışmalar.
   * 🛠️ **Teknolojiler:** ROS2, PX4 Otopilot, MAVLink, Gazebo, OpenCV, YOLOv8
-
----
-
-### 🎓 Education & Background
-* **Karabük Üniversitesi** | Bilgisayar Mühendisliği (İngilizce) *(2022 - 2027)*
-* **Göynük Fen Lisesi** | Kemer, Antalya *(2017 - 2021)* — **Gano/Diploma:** 93,38 / 100
-
----
-
-### 🌐 Community & Leadership
-* **Core Team Üyesi** | Google Developer Student Clubs Karabuk *(Şubat 2024 - Mart 2025)*
-* **Komite Üyesi** | IEEE Karabük Üniversitesi *(Mayıs 2023 - Kasım 2024)*
 
 ---
 
