@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:salihacelikx@gmail.com"><img src="https://img.shields.io/badge/Email-salihacelikx%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/salihacelikk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/salihacelik"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:salihacelikx@gmail.com"><img src="https://img.shields.io/badge/Email-salihacelikx%40gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://linkedin.com/in/salihacelikk"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://github.com/salihacelik"><img src="https://img.shields.io/badge/GitHub-1f2328?style=flat-square&logo=github&logoColor=ffffff" /></a>
 </p>
 
 ---
@@ -20,28 +20,28 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Gelişen teknolojilere ilgi
 ### 🛠️ Tech Stack & Skills
 
 * **Programming Languages:** 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C%23-1f2328?style=flat-square&logo=csharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/C-1f2328?style=flat-square&logo=c&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-1f2328?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/SQL-1f2328?style=flat-square&logo=sqlite&logoColor=4479A1" />
 
 * **Web & Technologies:** 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-1f2328?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1f2328?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/PHP-1f2328?style=flat-square&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/.NET_Core-1f2328?style=flat-square&logo=dotnet&logoColor=512BD4" />
 
 * **Autonomous & Embedded Systems:** 
-  <img src="https://img.shields.io/badge/ROS 2-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PX4-00519E?style=flat-square&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-439539?style=flat-square&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_2-1f2328?style=flat-square&logo=ros&logoColor=22314E" />
+  <img src="https://img.shields.io/badge/OpenCV-1f2328?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/PX4-1f2328?style=flat-square&logo=autodesk&logoColor=00519E" />
+  <img src="https://img.shields.io/badge/Gazebo-1f2328?style=flat-square&logo=gazebo&logoColor=439539" />
 
 * **Tools & Version Control:** 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1f2328?style=flat-square&logo=github&logoColor=ffffff" />
 
 ---
 
